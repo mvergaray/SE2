@@ -1,0 +1,26 @@
+{
+  "name": "se2",
+  "description": "SuperEnvios 2",
+  "main": "README.md",
+  "authors": [
+    "Marco Vergaray"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "SuperEnvios"
+  ],
+  "homepage": "https://github.com/mvergaray/SE2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "*/vendor/*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.11",
+    "bootstrap": "^3.3.7"
+  }
+}
